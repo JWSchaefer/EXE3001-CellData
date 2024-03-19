@@ -21,8 +21,8 @@
 
 | **Feature**         | **Description**                                                                    |
 | ------------------- | ---------------------------------------------------------------------------------- |
-| `Area`              |                                                                                    |
-| `Perimeter`         |                                                                                    |
+| `Area`              | Area of image occupied by the cell in pixels                                       |
+| `Perimeter`         | Length along the cell perimeter in pixels                                          |
 | `Smoothness`        | Local variation in radius lengths                                                  |
 | `Radius`            | Mean of distances from center to points on the perimeter                           |
 | `Texture`           | Standard deviation of gray-scale values                                            |
