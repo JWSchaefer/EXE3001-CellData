@@ -14,7 +14,7 @@
 
 ## Data 
 
-- 10 observations
+- 10 features
 - 3 Classes
 - 70 Malignant, 70 Fibroadenoma, 70 Lipoma
 - Missing values - None
